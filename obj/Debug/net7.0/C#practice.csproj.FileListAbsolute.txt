@@ -1,0 +1,15 @@
+/Users/sydneysoita/Documents/C#practice/bin/Debug/net7.0/C#practice
+/Users/sydneysoita/Documents/C#practice/bin/Debug/net7.0/C#practice.deps.json
+/Users/sydneysoita/Documents/C#practice/bin/Debug/net7.0/C#practice.runtimeconfig.json
+/Users/sydneysoita/Documents/C#practice/bin/Debug/net7.0/C#practice.dll
+/Users/sydneysoita/Documents/C#practice/bin/Debug/net7.0/C#practice.pdb
+/Users/sydneysoita/Documents/C#practice/obj/Debug/net7.0/C#practice.csproj.AssemblyReference.cache
+/Users/sydneysoita/Documents/C#practice/obj/Debug/net7.0/C#practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sydneysoita/Documents/C#practice/obj/Debug/net7.0/C#practice.AssemblyInfoInputs.cache
+/Users/sydneysoita/Documents/C#practice/obj/Debug/net7.0/C#practice.AssemblyInfo.cs
+/Users/sydneysoita/Documents/C#practice/obj/Debug/net7.0/C#practice.csproj.CoreCompileInputs.cache
+/Users/sydneysoita/Documents/C#practice/obj/Debug/net7.0/C#practice.dll
+/Users/sydneysoita/Documents/C#practice/obj/Debug/net7.0/refint/C#practice.dll
+/Users/sydneysoita/Documents/C#practice/obj/Debug/net7.0/C#practice.pdb
+/Users/sydneysoita/Documents/C#practice/obj/Debug/net7.0/C#practice.genruntimeconfig.cache
+/Users/sydneysoita/Documents/C#practice/obj/Debug/net7.0/ref/C#practice.dll
